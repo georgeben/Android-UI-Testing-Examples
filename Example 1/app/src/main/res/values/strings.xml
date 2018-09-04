@@ -3,4 +3,10 @@
     <string name="name_edit_text">Input user\'s name</string>
     <string name="submit">Submit</string>
     <string name="submit_btn_desc">submit button</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
 </resources>
